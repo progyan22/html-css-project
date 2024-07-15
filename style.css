@@ -1,0 +1,41 @@
+.box{
+    width: 250px;
+    box-shadow: 3px 3px 3px #d8d4d4;
+    
+}
+.box .top span{
+    background-color: blue;
+    color: azure;
+    display: inline-block;
+    padding: 2px 15px ;
+    border-top-right-radius: 15px;
+    border border-top-right-radius: 15px;
+
+}
+.box image{
+    text-align: center;
+}
+.box contains h4 a{
+    fornt size: 16px;
+    text-decoration:none;
+}
+
+.box contains h4 a:hover{
+color: brown;
+}.box .price{
+    text-align: center;
+    border: 1px solid;
+}
+.box .price .btn-1{
+color: crimson;
+line-height: 22px;
+fornt size: 17px;
+fornt weight: 600px;
+
+}
+
+.box .price .btn-2{
+ text-decoration: line-through;
+}
+
+
